@@ -3,10 +3,10 @@
     "717b7d6b-851c-47de-96a6-02c6a0f83b9d": {
       "label": "Podcast",
       "is_offline": false,
-      "file_url": "https://archive.org/download/new-recording_202504/New%20Recording.m4a",
-      "duration": 84,
+      "file_url": "https://ia600703.us.archive.org/33/items/southd-allasgentrification/SouthdALLASgentrification.m4a",
+      "duration": 1340,
       "caption_set": [],
-      "duration_overridden": true
+      "duration_overridden": false
     }
   },
   "auto_generate_web_page": true,
@@ -25,6 +25,6 @@
   "label": "SouthDallasGentrification",
   "created_at": "2025-04-24T15:07:29.415Z",
   "created_by": "eloooisaaa",
-  "updated_at": "2025-04-24T15:07:29.415Z",
+  "updated_at": "2025-04-30T19:58:53.095Z",
   "updated_by": "eloooisaaa"
 }
